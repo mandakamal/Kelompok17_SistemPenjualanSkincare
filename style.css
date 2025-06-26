@@ -1,0 +1,36 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff0f5;
+}
+
+.navbar {
+  background-color: #ffcce6;
+  font-weight: 500;
+}
+
+.hero-banner h2 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.5rem;
+  color: #ff69b4;
+}
+
+.btn-pink {
+  background-color: #ff8fab;
+  color: white;
+  border: none;
+}
+.btn-pink:hover {
+  background-color: #ff69b4;
+}
+
+.bg-pink {
+  background-color: #ff8fab !important;
+}
+
+footer {
+  background-color: #ff69b4;
+}
+.logo {
+  width: 50px;    /* atur ukuran sesuai selera */
+  height: auto;
+}
